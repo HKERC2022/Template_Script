@@ -1,5 +1,4 @@
-//Set tag
-
+// delete the player after disconnected
 addMissionEventHandler ['HandleDisconnect',{
 	[(_this select 0)] spawn {
 		sleep 0.1;

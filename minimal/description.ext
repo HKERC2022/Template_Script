@@ -1,6 +1,6 @@
-author			= ""; 
-onLoadName		= "";
-onLoadMission	= "";
+author			= "Author Name"; 
+onLoadName		= "mission name when selecting mission";
+onLoadMission	= "Mission name on loading screen";
 // loadScreen		= "";
 // overviewPicture = "";
 class Header

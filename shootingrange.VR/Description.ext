@@ -1,0 +1,8 @@
+#include "\a3\ui_f\hpp\defineCommonGrids.inc"
+#include "UI\BaseControls.hpp"
+class RscTitles
+{
+  #include "UI\RscTimer1.hpp"
+	#include "UI\RSCTimer2.hpp"
+}
+enabledebugconsole = 1;
